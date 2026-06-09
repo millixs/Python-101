@@ -41,9 +41,5 @@ Python-101/
 └── Questions/
 ```
 
-## Purpose
-
-This repository serves as a personal record of my Python learning journey and a quick reference for Python fundamentals. The notes focus on understanding core concepts through examples and practice.
-
 ![Python](https://img.shields.io/badge/Python-101-blue)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-green)
