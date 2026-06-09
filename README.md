@@ -26,3 +26,4 @@ A collection of Python notes, exercises, and practice problems that I worked on 
 21. [Dictionaries](./Notes/dictionaries.py)
 22. [Random Module](./Notes/random_module.py)
     
+# Questions covered on all topics : - [Questions](./Questions/)
